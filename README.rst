@@ -87,7 +87,7 @@ Full Documentation
 The complete documentation for the Python toolkit for Rally REST API 
 is in the doc/build/html subdirectory in the repository.  
 The rendered version of this is also available at 
-http://readthedocs.org/docs/pyral.
+http://pyral.readthedocs.org.
 
 
 Sample code
